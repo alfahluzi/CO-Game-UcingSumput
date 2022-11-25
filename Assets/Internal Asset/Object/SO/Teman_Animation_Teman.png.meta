@@ -1,0 +1,3371 @@
+fileFormatVersion: 2
+guid: 240194359b3b3c84891dd234edb00777
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8691059897247235505
+    second: Teman_Animation_Teman_0
+  - first:
+      213: 6589223698457149185
+    second: Teman_Animation_Teman_1
+  - first:
+      213: -8662607367790812135
+    second: Teman_Animation_Teman_2
+  - first:
+      213: -8873019156935038266
+    second: Teman_Animation_Teman_3
+  - first:
+      213: 2548192507048552638
+    second: Teman_Animation_Teman_4
+  - first:
+      213: -6951729853797333200
+    second: Teman_Animation_Teman_5
+  - first:
+      213: 6243328644077852641
+    second: Teman_Animation_Teman_6
+  - first:
+      213: 6961833197096162042
+    second: Teman_Animation_Teman_7
+  - first:
+      213: -6436306326884778913
+    second: Teman_Animation_Teman_8
+  - first:
+      213: 2036570325435940805
+    second: Teman_Animation_Teman_9
+  - first:
+      213: 1995067747844067610
+    second: Teman_Animation_Teman_10
+  - first:
+      213: -4448922056506985695
+    second: Teman_Animation_Teman_11
+  - first:
+      213: -2474666758111025527
+    second: Teman_Animation_Teman_12
+  - first:
+      213: 6534296456127880520
+    second: Teman_Animation_Teman_13
+  - first:
+      213: 6674517530979242614
+    second: Teman_Animation_Teman_14
+  - first:
+      213: -2371064901353367445
+    second: Teman_Animation_Teman_15
+  - first:
+      213: -1177775964439894527
+    second: Teman_Animation_Teman_16
+  - first:
+      213: -7709542611966762960
+    second: Teman_Animation_Teman_17
+  - first:
+      213: -6186091860796415727
+    second: Teman_Animation_Teman_18
+  - first:
+      213: -8336236073689032795
+    second: Teman_Animation_Teman_19
+  - first:
+      213: 6355161894227809203
+    second: Teman_Animation_Teman_20
+  - first:
+      213: 4224722065731887234
+    second: Teman_Animation_Teman_21
+  - first:
+      213: 9195416186478821839
+    second: Teman_Animation_Teman_22
+  - first:
+      213: -8341683447507221124
+    second: Teman_Animation_Teman_23
+  - first:
+      213: -5341172684196654584
+    second: Teman_Animation_Teman_24
+  - first:
+      213: 3792731038411369508
+    second: Teman_Animation_Teman_25
+  - first:
+      213: 1421189107539945115
+    second: Teman_Animation_Teman_26
+  - first:
+      213: -1281978184416552029
+    second: Teman_Animation_Teman_27
+  - first:
+      213: -3847888304298425757
+    second: Teman_Animation_Teman_28
+  - first:
+      213: 1518056213763832425
+    second: Teman_Animation_Teman_29
+  - first:
+      213: -756418389092398983
+    second: Teman_Animation_Teman_30
+  - first:
+      213: -5943710306676434596
+    second: Teman_Animation_Teman_31
+  - first:
+      213: -4328360965010204023
+    second: Teman_Animation_Teman_32
+  - first:
+      213: 4219951001003513705
+    second: Teman_Animation_Teman_33
+  - first:
+      213: 6064749202331194454
+    second: Teman_Animation_Teman_34
+  - first:
+      213: 2625960862334526661
+    second: Teman_Animation_Teman_35
+  - first:
+      213: -3888753258654508752
+    second: Teman_Animation_Teman_36
+  - first:
+      213: -3302381560711061466
+    second: Teman_Animation_Teman_37
+  - first:
+      213: 4684637342539057378
+    second: Teman_Animation_Teman_38
+  - first:
+      213: 1809519665502764530
+    second: Teman_Animation_Teman_39
+  - first:
+      213: 2864429250036402559
+    second: Teman_Animation_Teman_40
+  - first:
+      213: 5129307399838837516
+    second: Teman_Animation_Teman_41
+  - first:
+      213: -2042611695485628011
+    second: Teman_Animation_Teman_42
+  - first:
+      213: -2915341966746793912
+    second: Teman_Animation_Teman_43
+  - first:
+      213: 6104886797886854943
+    second: Teman_Animation_Teman_44
+  - first:
+      213: 7390363321482217005
+    second: Teman_Animation_Teman_45
+  - first:
+      213: 1769480226703022208
+    second: Teman_Animation_Teman_46
+  - first:
+      213: 5074005657132370935
+    second: Teman_Animation_Teman_47
+  - first:
+      213: 2756032152273230988
+    second: Teman_Animation_Teman_48
+  - first:
+      213: 7542565198928646776
+    second: Teman_Animation_Teman_49
+  - first:
+      213: -1403220381250239203
+    second: Teman_Animation_Teman_50
+  - first:
+      213: -2845144652358356186
+    second: Teman_Animation_Teman_51
+  - first:
+      213: 6584724888798014387
+    second: Teman_Animation_Teman_52
+  - first:
+      213: 6552237324925574799
+    second: Teman_Animation_Teman_53
+  - first:
+      213: -2474012649874970330
+    second: Teman_Animation_Teman_54
+  - first:
+      213: 4893270903981434441
+    second: Teman_Animation_Teman_55
+  - first:
+      213: 1229996573881729700
+    second: Teman_Animation_Teman_56
+  - first:
+      213: -3801736868892740019
+    second: Teman_Animation_Teman_57
+  - first:
+      213: -321803136297736428
+    second: Teman_Animation_Teman_58
+  - first:
+      213: -33623583431682560
+    second: Teman_Animation_Teman_59
+  - first:
+      213: -3537344627322252071
+    second: Teman_Animation_Teman_60
+  - first:
+      213: -751149264055308859
+    second: Teman_Animation_Teman_61
+  - first:
+      213: 1334227717953800882
+    second: Teman_Animation_Teman_62
+  - first:
+      213: -5505138944105526033
+    second: Teman_Animation_Teman_63
+  - first:
+      213: 7035539807719186598
+    second: Teman_Animation_Teman_64
+  - first:
+      213: -3029533445607771178
+    second: Teman_Animation_Teman_65
+  - first:
+      213: 3012218010740112283
+    second: Teman_Animation_Teman_66
+  - first:
+      213: 8263231087458203201
+    second: Teman_Animation_Teman_67
+  - first:
+      213: -2620574979021510366
+    second: Teman_Animation_Teman_68
+  - first:
+      213: 8378802337091032845
+    second: Teman_Animation_Teman_69
+  - first:
+      213: -4663694373560631352
+    second: Teman_Animation_Teman_70
+  - first:
+      213: -987610516891689955
+    second: Teman_Animation_Teman_71
+  - first:
+      213: -6626185139494189010
+    second: Teman_Animation_Teman_72
+  - first:
+      213: -7790657671058269660
+    second: Teman_Animation_Teman_73
+  - first:
+      213: -2379719210974606029
+    second: Teman_Animation_Teman_74
+  - first:
+      213: -5225131435177127333
+    second: Teman_Animation_Teman_75
+  - first:
+      213: -5349517414873569625
+    second: Teman_Animation_Teman_76
+  - first:
+      213: -995606861722682434
+    second: Teman_Animation_Teman_77
+  - first:
+      213: -5231315203743535231
+    second: Teman_Animation_Teman_78
+  - first:
+      213: -4886708914559065598
+    second: Teman_Animation_Teman_79
+  - first:
+      213: -6433679859963926758
+    second: Teman_Animation_Teman_80
+  - first:
+      213: 190501402277417146
+    second: Teman_Animation_Teman_81
+  - first:
+      213: -7757487523169682738
+    second: Teman_Animation_Teman_82
+  - first:
+      213: 2887241592885224462
+    second: Teman_Animation_Teman_83
+  - first:
+      213: -6780598898258762789
+    second: Teman_Animation_Teman_84
+  - first:
+      213: -2102444955941694675
+    second: Teman_Animation_Teman_85
+  - first:
+      213: 6144628630184415800
+    second: Teman_Animation_Teman_86
+  - first:
+      213: 600921401850820209
+    second: Teman_Animation_Teman_87
+  - first:
+      213: -4561338443602716847
+    second: Teman_Animation_Teman_88
+  - first:
+      213: 3159708524750444034
+    second: Teman_Animation_Teman_89
+  - first:
+      213: 5802252259330982969
+    second: Teman_Animation_Teman_90
+  - first:
+      213: 276682887220839095
+    second: Teman_Animation_Teman_91
+  - first:
+      213: 260845271581881429
+    second: Teman_Animation_Teman_92
+  - first:
+      213: -6030679395033295951
+    second: Teman_Animation_Teman_93
+  - first:
+      213: 3323382937575933523
+    second: Teman_Animation_Teman_94
+  - first:
+      213: 5295639853377090741
+    second: Teman_Animation_Teman_95
+  - first:
+      213: 1581194986641212661
+    second: Teman_Animation_Teman_96
+  - first:
+      213: -2159735247996761122
+    second: Teman_Animation_Teman_97
+  - first:
+      213: 8401055731597874775
+    second: Teman_Animation_Teman_98
+  - first:
+      213: 8360912159401829996
+    second: Teman_Animation_Teman_99
+  - first:
+      213: -1751866400539155924
+    second: Teman_Animation_Teman_100
+  - first:
+      213: 4211855729486886640
+    second: Teman_Animation_Teman_101
+  - first:
+      213: -8536269606218810214
+    second: Teman_Animation_Teman_102
+  - first:
+      213: 8236387878510661543
+    second: Teman_Animation_Teman_103
+  - first:
+      213: -1556032390357821323
+    second: Teman_Animation_Teman_104
+  - first:
+      213: 1455763867309944178
+    second: Teman_Animation_Teman_105
+  - first:
+      213: 521658679785438250
+    second: Teman_Animation_Teman_106
+  - first:
+      213: -5924435314847937192
+    second: Teman_Animation_Teman_107
+  - first:
+      213: -3838025730333046577
+    second: Teman_Animation_Teman_108
+  - first:
+      213: 8198620115481872390
+    second: Teman_Animation_Teman_109
+  - first:
+      213: -8886470763001310609
+    second: Teman_Animation_Teman_110
+  - first:
+      213: -184456346252171633
+    second: Teman_Animation_Teman_111
+  - first:
+      213: -518393577529395047
+    second: Teman_Animation_Teman_112
+  - first:
+      213: 4141686544908792607
+    second: Teman_Animation_Teman_113
+  - first:
+      213: 3634764003754768506
+    second: Teman_Animation_Teman_114
+  - first:
+      213: 5423904969781507960
+    second: Teman_Animation_Teman_115
+  - first:
+      213: -7447367970018301258
+    second: Teman_Animation_Teman_116
+  - first:
+      213: 8307109045862365484
+    second: Teman_Animation_Teman_117
+  - first:
+      213: 6596880942553784882
+    second: Teman_Animation_Teman_118
+  - first:
+      213: 7947595124045017819
+    second: Teman_Animation_Teman_119
+  - first:
+      213: -2792084553696560775
+    second: Teman_Animation_Teman_120
+  - first:
+      213: -1789321558405104505
+    second: Teman_Animation_Teman_121
+  - first:
+      213: -7048834752835264706
+    second: Teman_Animation_Teman_122
+  - first:
+      213: 7942322021108322576
+    second: Teman_Animation_Teman_123
+  - first:
+      213: 8234050731014803887
+    second: Teman_Animation_Teman_124
+  - first:
+      213: -3269300404914098828
+    second: Teman_Animation_Teman_125
+  - first:
+      213: 3916532947659051046
+    second: Teman_Animation_Teman_126
+  - first:
+      213: -2181840123234867227
+    second: Teman_Animation_Teman_127
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 925
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f428fe61217236780800000000000000
+      internalID: -8691059897247235505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 925
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fbf14ea00a17b50800000000000000
+      internalID: 6589223698457149185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 925
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a526de7c38c780800000000000000
+      internalID: -8662607367790812135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 925
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa6a98614bcd480800000000000000
+      internalID: -8873019156935038266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 925
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e0f1959ffc5320800000000000000
+      internalID: 2548192507048552638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_5
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 926
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0378ee1a78e768f90800000000000000
+      internalID: -6951729853797333200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_6
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 926
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7184eb252c4a650800000000000000
+      internalID: 6243328644077852641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 926
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2507a48666d9060800000000000000
+      internalID: 6961833197096162042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_8
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 925
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cfe682f75ada6a0800000000000000
+      internalID: -6436306326884778913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 925
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cff5b7bbe9534c10800000000000000
+      internalID: 2036570325435940805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_10
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 925
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11951ddb87efab10800000000000000
+      internalID: 1995067747844067610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_11
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 926
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123308406f04242c0800000000000000
+      internalID: -4448922056506985695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 850
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862351e1b738add0800000000000000
+      internalID: -2474666758111025527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 850
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d9894b10c7eaa50800000000000000
+      internalID: 6534296456127880520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 850
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6729221d456a0ac50800000000000000
+      internalID: 6674517530979242614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 850
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b689f6fd809481fd0800000000000000
+      internalID: -2371064901353367445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 851
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106219e1003b7afe0800000000000000
+      internalID: -1177775964439894527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 851
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030ebf067d3320590800000000000000
+      internalID: -7709542611966762960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 851
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1116b495a36962aa0800000000000000
+      internalID: -6186091860796415727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 852
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7d7ff457dbf4c80800000000000000
+      internalID: -8336236073689032795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_20
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 850
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31c8b5212123850800000000000000
+      internalID: 6355161894227809203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_21
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 850
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28024b2d55a31aa30800000000000000
+      internalID: 4224722065731887234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_22
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 850
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc182fc5d4eac9f70800000000000000
+      internalID: 9195416186478821839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_23
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 850
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c758392c9136c3c80800000000000000
+      internalID: -8341683447507221124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 775
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80250721eb750e5b0800000000000000
+      internalID: -5341172684196654584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 775
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cab11e8cc72a430800000000000000
+      internalID: 3792731038411369508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 775
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a299a6f319b310800000000000000
+      internalID: 1421189107539945115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 775
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab1d0c22af753ee0800000000000000
+      internalID: -1281978184416552029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 775
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36289e669fd899ac0800000000000000
+      internalID: -3847888304298425757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 775
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ab77a5518311510800000000000000
+      internalID: 1518056213763832425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_30
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 775
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97803989b79a085f0800000000000000
+      internalID: -756418389092398983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_31
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 775
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5919ba97f2b38da0800000000000000
+      internalID: -5943710306676434596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_32
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 775
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a56ec82a29ee3c0800000000000000
+      internalID: -4328360965010204023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_33
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 775
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9675e50c317409a30800000000000000
+      internalID: 4219951001003513705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_34
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 775
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654d8c064415a2450800000000000000
+      internalID: 6064749202331194454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_35
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 775
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42789cd79417420800000000000000
+      internalID: 2625960862334526661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 700
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03951c6c38f580ac0800000000000000
+      internalID: -3888753258654508752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 700
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6206401a7759b22d0800000000000000
+      internalID: -3302381560711061466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 700
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8029fb7dc230140800000000000000
+      internalID: 4684637342539057378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 700
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd306c6c84bc1910800000000000000
+      internalID: 1809519665502764530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 700
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7988acf93f70c720800000000000000
+      internalID: 2864429250036402559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_41
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 700
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2d2767e5fe2740800000000000000
+      internalID: 5129307399838837516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_42
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 700
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59155843c7f27a3e0800000000000000
+      internalID: -2042611695485628011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_43
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 700
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c4496def9a87d0800000000000000
+      internalID: -2915341966746793912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_44
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 700
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f179406923ae8b450800000000000000
+      internalID: 6104886797886854943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_45
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 700
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26060af848df8660800000000000000
+      internalID: 7390363321482217005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_46
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 700
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08816bd14e47e8810800000000000000
+      internalID: 1769480226703022208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_47
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 701
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb82bd034d7a6640800000000000000
+      internalID: 5074005657132370935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 591
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c1dc1f3a46f3620800000000000000
+      internalID: 2756032152273230988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 591
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8729d5116139ca860800000000000000
+      internalID: 7542565198928646776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 591
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15cdf17f72c68ce0800000000000000
+      internalID: -1403220381250239203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 591
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623f39d43040488d0800000000000000
+      internalID: -2845144652358356186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_52
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 587
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbaa742664a16b50800000000000000
+      internalID: 6584724888798014387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_53
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 588
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e9e3cb1293eea50800000000000000
+      internalID: 6552237324925574799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_54
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 588
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62921625a9a8aadd0800000000000000
+      internalID: -2474012649874970330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_55
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 588
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946619526f368e340800000000000000
+      internalID: 4893270903981434441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_56
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 587
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a20b2dfd53d11110800000000000000
+      internalID: 1229996573881729700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_57
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 587
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467420d5748d3bc0800000000000000
+      internalID: -3801736868892740019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_58
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 587
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ed55a0c9b88bf0800000000000000
+      internalID: -321803136297736428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_59
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 588
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0069a7d678b888ff0800000000000000
+      internalID: -33623583431682560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 516
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d412589dc3d8eec0800000000000000
+      internalID: -3537344627322252071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 516
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdefae59b16395f0800000000000000
+      internalID: -751149264055308859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 516
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bacd1a5a01248210800000000000000
+      internalID: 1334227717953800882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 516
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feccb6d3c41d993b0800000000000000
+      internalID: -5505138944105526033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_64
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 513
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e832ed2243a160800000000000000
+      internalID: 7035539807719186598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_65
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 513
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33263e16fe4f5d0800000000000000
+      internalID: -3029533445607771178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_66
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 513
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb234425c8dc920800000000000000
+      internalID: 3012218010740112283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_67
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 514
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14639e0c4e4eca270800000000000000
+      internalID: 8263231087458203201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_68
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 512
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296524e0f8d1abd0800000000000000
+      internalID: -2620574979021510366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_69
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 512
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d071681355c774470800000000000000
+      internalID: 8378802337091032845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_70
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 512
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf3ee23daa374fb0800000000000000
+      internalID: -4663694373560631352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_71
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 513
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c1b3ca77d4b42f0800000000000000
+      internalID: -987610516891689955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 441
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e280a7009bf0b04a0800000000000000
+      internalID: -6626185139494189010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 441
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a56e5ff1602e390800000000000000
+      internalID: -7790657671058269660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 441
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d8fa46cf989fed0800000000000000
+      internalID: -2379719210974606029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_75
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 441
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b525a85c4aa9c77b0800000000000000
+      internalID: -5225131435177127333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_76
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 437
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e1be0142b2c5b0800000000000000
+      internalID: -5349517414873569625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_77
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 437
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf31f85d4ee22f0800000000000000
+      internalID: -995606861722682434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_78
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 437
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f24c4f982a667b0800000000000000
+      internalID: -5231315203743535231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_79
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 437
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e8f2122cee2cb0800000000000000
+      internalID: -4886708914559065598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_80
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 437
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17e344214af6b6a0800000000000000
+      internalID: -6433679859963926758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_81
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 437
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab095fb140cc4a200800000000000000
+      internalID: 190501402277417146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_82
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 437
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca32f7d23ed75490800000000000000
+      internalID: -7757487523169682738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_83
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 437
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0428a47eea811820800000000000000
+      internalID: 2887241592885224462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 366
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a1e82a3976e1a0800000000000000
+      internalID: -6780598898258762789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 366
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239849a37d92d2e0800000000000000
+      internalID: -2102444955941694675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_86
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 366
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83256dafe2b164550800000000000000
+      internalID: 6144628630184415800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_87
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 366
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767f37c4d6e65800800000000000000
+      internalID: 600921401850820209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_88
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 363
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1571ab04aded2b0c0800000000000000
+      internalID: -4561338443602716847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_89
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 363
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2061683992a89db20800000000000000
+      internalID: 3159708524750444034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_90
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 363
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93481ae20bdb58050800000000000000
+      internalID: 5802252259330982969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_91
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 363
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b24a38be99f6d300800000000000000
+      internalID: 276682887220839095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_92
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 362
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547af97465be9300800000000000000
+      internalID: 260845271581881429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_93
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 362
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3d5c8ca09be4ca0800000000000000
+      internalID: -6030679395033295951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_94
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 362
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356cec67c270f1e20800000000000000
+      internalID: 3323382937575933523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_95
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 363
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b471fe9364ed7940800000000000000
+      internalID: 5295639853377090741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_96
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 253
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c06b767881f510800000000000000
+      internalID: 1581194986641212661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 253
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb43461c341702e0800000000000000
+      internalID: -2159735247996761122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_98
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 253
+        width: 35
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756962c5dab869470800000000000000
+      internalID: 8401055731597874775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_99
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 253
+        width: 35
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66e36b9f4de70470800000000000000
+      internalID: 8360912159401829996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_100
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 253
+        width: 35
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ebed5ace10b7e0800000000000000
+      internalID: -1751866400539155924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_101
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 253
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f672497874837a30800000000000000
+      internalID: 4211855729486886640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_102
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 253
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3d5e2504198980800000000000000
+      internalID: -8536269606218810214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_103
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 253
+        width: 35
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af06f223278d4270800000000000000
+      internalID: 8236387878510661543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_104
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 178
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57858b109ccd76ae0800000000000000
+      internalID: -1556032390357821323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_105
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 178
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dabdb3689e33410800000000000000
+      internalID: 1455763867309944178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_106
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 178
+        width: 35
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c3c9e2ecd4d3700800000000000000
+      internalID: 521658679785438250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_107
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 178
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d85bb587d28cda0800000000000000
+      internalID: -5924435314847937192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_108
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 178
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc880b8dee79cbac0800000000000000
+      internalID: -3838025730333046577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_109
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 178
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6084baf8e8957c170800000000000000
+      internalID: 8198620115481872390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_110
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 177
+        width: 69
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6299607ce9eca480800000000000000
+      internalID: -8886470763001310609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_111
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 178
+        width: 70
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a21d2eeda07df0800000000000000
+      internalID: -184456346252171633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_112
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998348da9cb4ec8f0800000000000000
+      internalID: -518393577529395047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 103
+        width: 35
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13bd4018f93a7930800000000000000
+      internalID: 4141686544908792607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_114
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 103
+        width: 35
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78fd268a96417230800000000000000
+      internalID: 3634764003754768506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_115
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 103
+        width: 35
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8777d4b35d4954b40800000000000000
+      internalID: 5423904969781507960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_116
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 103
+        width: 35
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baef630a42a5a890800000000000000
+      internalID: -7447367970018301258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_117
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 103
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297f0d0aa7c84370800000000000000
+      internalID: 8307109045862365484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_118
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 103
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2326676f344dc8b50800000000000000
+      internalID: 6596880942553784882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_119
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 103
+        width: 35
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2745b38a78b4e60800000000000000
+      internalID: 7947595124045017819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_120
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 28
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979bf0a34e58049d0800000000000000
+      internalID: -2792084553696560775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_121
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 28
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cb05ad58d0b27e0800000000000000
+      internalID: -1789321558405104505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_122
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 28
+        width: 35
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f53dc73228d2e90800000000000000
+      internalID: -7048834752835264706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_123
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 28
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119ce74ccbc83e60800000000000000
+      internalID: 7942322021108322576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_124
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 28
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1dea49389354270800000000000000
+      internalID: 8234050731014803887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_125
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 28
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ded0d6a9c11a2d0800000000000000
+      internalID: -3269300404914098828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_126
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 27
+        width: 69
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d45817f15a5630800000000000000
+      internalID: 3916532947659051046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teman_Animation_Teman_127
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 28
+        width: 70
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e724e1c7fb88b1e0800000000000000
+      internalID: -2181840123234867227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Teman_Animation_Teman_39: 1809519665502764530
+      Teman_Animation_Teman_85: -2102444955941694675
+      Teman_Animation_Teman_50: -1403220381250239203
+      Teman_Animation_Teman_25: 3792731038411369508
+      Teman_Animation_Teman_59: -33623583431682560
+      Teman_Animation_Teman_58: -321803136297736428
+      Teman_Animation_Teman_126: 3916532947659051046
+      Teman_Animation_Teman_66: 3012218010740112283
+      Teman_Animation_Teman_34: 6064749202331194454
+      Teman_Animation_Teman_75: -5225131435177127333
+      Teman_Animation_Teman_89: 3159708524750444034
+      Teman_Animation_Teman_116: -7447367970018301258
+      Teman_Animation_Teman_118: 6596880942553784882
+      Teman_Animation_Teman_73: -7790657671058269660
+      Teman_Animation_Teman_87: 600921401850820209
+      Teman_Animation_Teman_104: -1556032390357821323
+      Teman_Animation_Teman_127: -2181840123234867227
+      Teman_Animation_Teman_1: 6589223698457149185
+      Teman_Animation_Teman_69: 8378802337091032845
+      Teman_Animation_Teman_98: 8401055731597874775
+      Teman_Animation_Teman_120: -2792084553696560775
+      Teman_Animation_Teman_90: 5802252259330982969
+      Teman_Animation_Teman_43: -2915341966746793912
+      Teman_Animation_Teman_92: 260845271581881429
+      Teman_Animation_Teman_56: 1229996573881729700
+      Teman_Animation_Teman_46: 1769480226703022208
+      Teman_Animation_Teman_114: 3634764003754768506
+      Teman_Animation_Teman_94: 3323382937575933523
+      Teman_Animation_Teman_23: -8341683447507221124
+      Teman_Animation_Teman_51: -2845144652358356186
+      Teman_Animation_Teman_57: -3801736868892740019
+      Teman_Animation_Teman_77: -995606861722682434
+      Teman_Animation_Teman_37: -3302381560711061466
+      Teman_Animation_Teman_44: 6104886797886854943
+      Teman_Animation_Teman_3: -8873019156935038266
+      Teman_Animation_Teman_5: -6951729853797333200
+      Teman_Animation_Teman_91: 276682887220839095
+      Teman_Animation_Teman_88: -4561338443602716847
+      Teman_Animation_Teman_96: 1581194986641212661
+      Teman_Animation_Teman_19: -8336236073689032795
+      Teman_Animation_Teman_95: 5295639853377090741
+      Teman_Animation_Teman_93: -6030679395033295951
+      Teman_Animation_Teman_65: -3029533445607771178
+      Teman_Animation_Teman_107: -5924435314847937192
+      Teman_Animation_Teman_103: 8236387878510661543
+      Teman_Animation_Teman_61: -751149264055308859
+      Teman_Animation_Teman_125: -3269300404914098828
+      Teman_Animation_Teman_16: -1177775964439894527
+      Teman_Animation_Teman_8: -6436306326884778913
+      Teman_Animation_Teman_64: 7035539807719186598
+      Teman_Animation_Teman_72: -6626185139494189010
+      Teman_Animation_Teman_52: 6584724888798014387
+      Teman_Animation_Teman_99: 8360912159401829996
+      Teman_Animation_Teman_117: 8307109045862365484
+      Teman_Animation_Teman_38: 4684637342539057378
+      Teman_Animation_Teman_7: 6961833197096162042
+      Teman_Animation_Teman_45: 7390363321482217005
+      Teman_Animation_Teman_123: 7942322021108322576
+      Teman_Animation_Teman_121: -1789321558405104505
+      Teman_Animation_Teman_70: -4663694373560631352
+      Teman_Animation_Teman_54: -2474012649874970330
+      Teman_Animation_Teman_41: 5129307399838837516
+      Teman_Animation_Teman_47: 5074005657132370935
+      Teman_Animation_Teman_14: 6674517530979242614
+      Teman_Animation_Teman_62: 1334227717953800882
+      Teman_Animation_Teman_31: -5943710306676434596
+      Teman_Animation_Teman_106: 521658679785438250
+      Teman_Animation_Teman_24: -5341172684196654584
+      Teman_Animation_Teman_21: 4224722065731887234
+      Teman_Animation_Teman_80: -6433679859963926758
+      Teman_Animation_Teman_74: -2379719210974606029
+      Teman_Animation_Teman_79: -4886708914559065598
+      Teman_Animation_Teman_97: -2159735247996761122
+      Teman_Animation_Teman_10: 1995067747844067610
+      Teman_Animation_Teman_113: 4141686544908792607
+      Teman_Animation_Teman_49: 7542565198928646776
+      Teman_Animation_Teman_13: 6534296456127880520
+      Teman_Animation_Teman_115: 5423904969781507960
+      Teman_Animation_Teman_22: 9195416186478821839
+      Teman_Animation_Teman_109: 8198620115481872390
+      Teman_Animation_Teman_36: -3888753258654508752
+      Teman_Animation_Teman_76: -5349517414873569625
+      Teman_Animation_Teman_11: -4448922056506985695
+      Teman_Animation_Teman_4: 2548192507048552638
+      Teman_Animation_Teman_86: 6144628630184415800
+      Teman_Animation_Teman_42: -2042611695485628011
+      Teman_Animation_Teman_100: -1751866400539155924
+      Teman_Animation_Teman_53: 6552237324925574799
+      Teman_Animation_Teman_26: 1421189107539945115
+      Teman_Animation_Teman_6: 6243328644077852641
+      Teman_Animation_Teman_82: -7757487523169682738
+      Teman_Animation_Teman_111: -184456346252171633
+      Teman_Animation_Teman_20: 6355161894227809203
+      Teman_Animation_Teman_32: -4328360965010204023
+      Teman_Animation_Teman_78: -5231315203743535231
+      Teman_Animation_Teman_81: 190501402277417146
+      Teman_Animation_Teman_27: -1281978184416552029
+      Teman_Animation_Teman_68: -2620574979021510366
+      Teman_Animation_Teman_28: -3847888304298425757
+      Teman_Animation_Teman_60: -3537344627322252071
+      Teman_Animation_Teman_55: 4893270903981434441
+      Teman_Animation_Teman_48: 2756032152273230988
+      Teman_Animation_Teman_0: -8691059897247235505
+      Teman_Animation_Teman_71: -987610516891689955
+      Teman_Animation_Teman_102: -8536269606218810214
+      Teman_Animation_Teman_33: 4219951001003513705
+      Teman_Animation_Teman_105: 1455763867309944178
+      Teman_Animation_Teman_9: 2036570325435940805
+      Teman_Animation_Teman_124: 8234050731014803887
+      Teman_Animation_Teman_15: -2371064901353367445
+      Teman_Animation_Teman_2: -8662607367790812135
+      Teman_Animation_Teman_12: -2474666758111025527
+      Teman_Animation_Teman_30: -756418389092398983
+      Teman_Animation_Teman_63: -5505138944105526033
+      Teman_Animation_Teman_29: 1518056213763832425
+      Teman_Animation_Teman_112: -518393577529395047
+      Teman_Animation_Teman_122: -7048834752835264706
+      Teman_Animation_Teman_35: 2625960862334526661
+      Teman_Animation_Teman_67: 8263231087458203201
+      Teman_Animation_Teman_108: -3838025730333046577
+      Teman_Animation_Teman_83: 2887241592885224462
+      Teman_Animation_Teman_18: -6186091860796415727
+      Teman_Animation_Teman_17: -7709542611966762960
+      Teman_Animation_Teman_110: -8886470763001310609
+      Teman_Animation_Teman_119: 7947595124045017819
+      Teman_Animation_Teman_84: -6780598898258762789
+      Teman_Animation_Teman_40: 2864429250036402559
+      Teman_Animation_Teman_101: 4211855729486886640
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

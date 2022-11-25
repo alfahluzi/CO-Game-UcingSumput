@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: 7909c36537e080642b8c363287dd457c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4317573779053818591
+    second: US_0312_BG_Pohon_Depan_0
+  - first:
+      213: 6483370239675202619
+    second: US_0312_BG_Pohon_Depan_1
+  - first:
+      213: -8328082782865510761
+    second: US_0312_BG_Pohon_Depan_2
+  - first:
+      213: 7199396081469722621
+    second: US_0312_BG_Pohon_Depan_3
+  - first:
+      213: -71215896600607880
+    second: US_0312_BG_Pohon_Depan_4
+  - first:
+      213: -2039113848503209431
+    second: US_0312_BG_Pohon_Depan_5
+  - first:
+      213: -5315180175179815215
+    second: US_0312_BG_Pohon_Depan_6
+  - first:
+      213: -9066091396139382832
+    second: US_0312_BG_Pohon_Depan_7
+  - first:
+      213: -6477240986089179008
+    second: US_0312_BG_Pohon_Depan_8
+  - first:
+      213: 4972523372041845045
+    second: US_0312_BG_Pohon_Depan_9
+  - first:
+      213: -4228258054668167249
+    second: US_0312_BG_Pohon_Depan_10
+  - first:
+      213: -3048586974060618510
+    second: US_0312_BG_Pohon_Depan_11
+  - first:
+      213: -4592876153014345976
+    second: US_0312_BG_Pohon_Depan_12
+  - first:
+      213: -534635128984280287
+    second: US_0312_BG_Pohon_Depan_13
+  - first:
+      213: 3672749406731246063
+    second: US_0312_BG_Pohon_Depan_14
+  - first:
+      213: 1898525182266218791
+    second: US_0312_BG_Pohon_Depan_15
+  - first:
+      213: -8244936858509781902
+    second: US_0312_BG_Pohon_Depan_16
+  - first:
+      213: 5636853484661773160
+    second: US_0312_BG_Pohon_Depan_17
+  - first:
+      213: 1173576547422275803
+    second: US_0312_BG_Pohon_Depan_18
+  - first:
+      213: -8780696601124992937
+    second: US_0312_BG_Pohon_Depan_19
+  - first:
+      213: 1685452145496601907
+    second: US_0312_BG_Pohon_Depan_20
+  - first:
+      213: 4980503427383130605
+    second: US_0312_BG_Pohon_Depan_21
+  - first:
+      213: -1614859038299863811
+    second: US_0312_BG_Pohon_Depan_22
+  - first:
+      213: -6328384987356795048
+    second: US_0312_BG_Pohon_Depan_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.09}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 210
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc4fff585e414c0800000000000000
+      internalID: -4317573779053818591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 170
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cfd23f1ee89f950800000000000000
+      internalID: 6483370239675202619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 170
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e214345d4bc6c80800000000000000
+      internalID: -8328082782865510761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 170
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8751979469e360800000000000000
+      internalID: 7199396081469722621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87382c4f48df20ff0800000000000000
+      internalID: -71215896600607880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 130
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922f26b22cc93b3e0800000000000000
+      internalID: -2039113848503209431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 130
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6653daacfac36b0800000000000000
+      internalID: -5315180175179815215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 130
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d703efc8e5ce2280800000000000000
+      internalID: -9066091396139382832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 130
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088bd8b14a73c16a0800000000000000
+      internalID: -6477240986089179008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539b1eb49a3f10540800000000000000
+      internalID: 4972523372041845045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 90
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d1d893b53255c0800000000000000
+      internalID: -4228258054668167249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 90
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcdb389c4e31b5d0800000000000000
+      internalID: -3048586974060618510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 90
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f97321973d240c0800000000000000
+      internalID: -4592876153014345976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 90
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123627cce289498f0800000000000000
+      internalID: -534635128984280287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91e39502a38f230800000000000000
+      internalID: 3672749406731246063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7299c1e289ae85a10800000000000000
+      internalID: 1898525182266218791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274dff85c99149d80800000000000000
+      internalID: -8244936858509781902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 50
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863103401602a3e40800000000000000
+      internalID: 5636853484661773160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 50
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd885d9e6a1694010800000000000000
+      internalID: 1173576547422275803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7580771a6f2b42680800000000000000
+      internalID: -8780696601124992937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 10
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335be32ebcde36710800000000000000
+      internalID: 1685452145496601907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 10
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de979c7ba7d4e1540800000000000000
+      internalID: 4980503427383130605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 10
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4cec3b24ed699e0800000000000000
+      internalID: -1614859038299863811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0312_BG_Pohon_Depan_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 10
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85feeaa126f0d28a0800000000000000
+      internalID: -6328384987356795048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      US_0312_BG_Pohon_Depan_17: 5636853484661773160
+      US_0312_BG_Pohon_Depan_14: 3672749406731246063
+      US_0312_BG_Pohon_Depan_20: 1685452145496601907
+      US_0312_BG_Pohon_Depan_19: -8780696601124992937
+      US_0312_BG_Pohon_Depan_13: -534635128984280287
+      US_0312_BG_Pohon_Depan_11: -3048586974060618510
+      US_0312_BG_Pohon_Depan_7: -9066091396139382832
+      US_0312_BG_Pohon_Depan_10: -4228258054668167249
+      US_0312_BG_Pohon_Depan_6: -5315180175179815215
+      US_0312_BG_Pohon_Depan_0: -4317573779053818591
+      US_0312_BG_Pohon_Depan_1: 6483370239675202619
+      US_0312_BG_Pohon_Depan_5: -2039113848503209431
+      US_0312_BG_Pohon_Depan_18: 1173576547422275803
+      US_0312_BG_Pohon_Depan_9: 4972523372041845045
+      US_0312_BG_Pohon_Depan_3: 7199396081469722621
+      US_0312_BG_Pohon_Depan_12: -4592876153014345976
+      US_0312_BG_Pohon_Depan_2: -8328082782865510761
+      US_0312_BG_Pohon_Depan_15: 1898525182266218791
+      US_0312_BG_Pohon_Depan_23: -6328384987356795048
+      US_0312_BG_Pohon_Depan_8: -6477240986089179008
+      US_0312_BG_Pohon_Depan_21: 4980503427383130605
+      US_0312_BG_Pohon_Depan_22: -1614859038299863811
+      US_0312_BG_Pohon_Depan_16: -8244936858509781902
+      US_0312_BG_Pohon_Depan_4: -71215896600607880
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

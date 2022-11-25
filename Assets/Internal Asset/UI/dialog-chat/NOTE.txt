@@ -1,0 +1,4 @@
+In-case bisi mau pake font yang sama sama mau pake button, udah dilampirin
+
+font (yoster-island)
+button skip&next

@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: 4767e45f95a582b4b820e2b6274a818d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5340242612823583522
+    second: US_0101_Player_Animation_Player_Lightclip_0
+  - first:
+      213: -4604011097803601803
+    second: US_0101_Player_Animation_Player_Lightclip_1
+  - first:
+      213: -8812665208288104823
+    second: US_0101_Player_Animation_Player_Lightclip_2
+  - first:
+      213: 2455607023122701135
+    second: US_0101_Player_Animation_Player_Lightclip_3
+  - first:
+      213: -3179786904128766213
+    second: US_0101_Player_Animation_Player_Lightclip_4
+  - first:
+      213: 2663498810711710832
+    second: US_0101_Player_Animation_Player_Lightclip_5
+  - first:
+      213: 694095145686724465
+    second: US_0101_Player_Animation_Player_Lightclip_6
+  - first:
+      213: -1690736794707876372
+    second: US_0101_Player_Animation_Player_Lightclip_7
+  - first:
+      213: -5017203684945408251
+    second: US_0101_Player_Animation_Player_Lightclip_8
+  - first:
+      213: -9052319156280145293
+    second: US_0101_Player_Animation_Player_Lightclip_9
+  - first:
+      213: 7927930305248890902
+    second: US_0101_Player_Animation_Player_Lightclip_10
+  - first:
+      213: -604983316196782274
+    second: US_0101_Player_Animation_Player_Lightclip_11
+  - first:
+      213: -92423999615891889
+    second: US_0101_Player_Animation_Player_Lightclip_12
+  - first:
+      213: -7367258626171302495
+    second: US_0101_Player_Animation_Player_Lightclip_13
+  - first:
+      213: 1707122354580678971
+    second: US_0101_Player_Animation_Player_Lightclip_14
+  - first:
+      213: -41339504908688024
+    second: US_0101_Player_Animation_Player_Lightclip_15
+  - first:
+      213: -8440653804982410741
+    second: US_0101_Player_Animation_Player_Lightclip_16
+  - first:
+      213: 7790877930167724973
+    second: US_0101_Player_Animation_Player_Lightclip_17
+  - first:
+      213: -2781444264920511199
+    second: US_0101_Player_Animation_Player_Lightclip_18
+  - first:
+      213: -7071708902574838209
+    second: US_0101_Player_Animation_Player_Lightclip_19
+  - first:
+      213: 1460179338566013932
+    second: US_0101_Player_Animation_Player_Lightclip_20
+  - first:
+      213: -7943007569607994298
+    second: US_0101_Player_Animation_Player_Lightclip_21
+  - first:
+      213: 2681830249267709722
+    second: US_0101_Player_Animation_Player_Lightclip_22
+  - first:
+      213: 189917647067176618
+    second: US_0101_Player_Animation_Player_Lightclip_23
+  - first:
+      213: -1127261358357458417
+    second: US_0101_Player_Animation_Player_Lightclip_24
+  - first:
+      213: 2684307246278206397
+    second: US_0101_Player_Animation_Player_Lightclip_25
+  - first:
+      213: 118408717828062189
+    second: US_0101_Player_Animation_Player_Lightclip_26
+  - first:
+      213: -9023764151470438674
+    second: US_0101_Player_Animation_Player_Lightclip_27
+  - first:
+      213: -1797502388841671265
+    second: US_0101_Player_Animation_Player_Lightclip_28
+  - first:
+      213: 8083608348409817881
+    second: US_0101_Player_Animation_Player_Lightclip_29
+  - first:
+      213: 5913355625615954528
+    second: US_0101_Player_Animation_Player_Lightclip_30
+  - first:
+      213: -2902608865575203636
+    second: US_0101_Player_Animation_Player_Lightclip_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 480
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 530
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed41f3033a5a3e5b0800000000000000
+      internalID: -5340242612823583522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 530
+        width: 53
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c575bc444b10c0800000000000000
+      internalID: -4604011097803601803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 530
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e2b8f3faf13b580800000000000000
+      internalID: -8812665208288104823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 530
+        width: 55
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bde21c391141220800000000000000
+      internalID: 2455607023122701135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 455
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe37fd68a02fd3d0800000000000000
+      internalID: -3179786904128766213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 455
+        width: 38
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c95287e06a6f420800000000000000
+      internalID: 2663498810711710832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 455
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17feaf68bdbe1a900800000000000000
+      internalID: 694095145686724465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 455
+        width: 42
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce521c6d7db4988e0800000000000000
+      internalID: -1690736794707876372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 380
+        width: 41
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f4c01b4df4f5ab0800000000000000
+      internalID: -5017203684945408251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 380
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a457840b3bf5280800000000000000
+      internalID: -9052319156280145293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 380
+        width: 41
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6101a60db9aa50e60800000000000000
+      internalID: 7927930305248890902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 380
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8d0711eaaa97f0800000000000000
+      internalID: -604983316196782274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 305
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f468c2eacd4a7bef0800000000000000
+      internalID: -92423999615891889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 305
+        width: 39
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad80aa105d32c990800000000000000
+      internalID: -7367258626171302495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 305
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39e8ec9cbae0b710800000000000000
+      internalID: 1707122354580678971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 305
+        width: 39
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8652ab670f12d6ff0800000000000000
+      internalID: -41339504908688024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 230
+        width: 37
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0269f9b516ccda80800000000000000
+      internalID: -8440653804982410741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 230
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe31c1332ce1c60800000000000000
+      internalID: 7790877930167724973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 230
+        width: 37
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d8dd28d235669d0800000000000000
+      internalID: -2781444264920511199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 230
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2f0b783e3cdd90800000000000000
+      internalID: -7071708902574838209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 42
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3979f3f59934410800000000000000
+      internalID: 1460179338566013932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 155
+        width: 42
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644d64503b4c4c190800000000000000
+      internalID: -7943007569607994298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 155
+        width: 42
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17cf7b1766c73520800000000000000
+      internalID: 2681830249267709722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 155
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae54020819b2a200800000000000000
+      internalID: 189917647067176618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 80
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02541e54c92b50f0800000000000000
+      internalID: -1127261358357458417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 80
+        width: 35
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db36b6ae733904520800000000000000
+      internalID: 2684307246278206397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 80
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb737cf91ca4a100800000000000000
+      internalID: 118408717828062189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 80
+        width: 34
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee643be605625c280800000000000000
+      internalID: -9023764151470438674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 51
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951d26d91dfd07e0800000000000000
+      internalID: -1797502388841671265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b695ec6febe2070800000000000000
+      internalID: 8083608348409817881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4
+        width: 51
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06295677c95701250800000000000000
+      internalID: 5913355625615954528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: US_0101_Player_Animation_Player_Lightclip_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc8d7d8d9cd7b7d0800000000000000
+      internalID: -2902608865575203636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      US_0101_Player_Animation_Player_Lightclip_20: 1460179338566013932
+      US_0101_Player_Animation_Player_Lightclip_27: -9023764151470438674
+      US_0101_Player_Animation_Player_Lightclip_7: -1690736794707876372
+      US_0101_Player_Animation_Player_Lightclip_11: -604983316196782274
+      US_0101_Player_Animation_Player_Lightclip_4: -3179786904128766213
+      US_0101_Player_Animation_Player_Lightclip_21: -7943007569607994298
+      US_0101_Player_Animation_Player_Lightclip_28: -1797502388841671265
+      US_0101_Player_Animation_Player_Lightclip_6: 694095145686724465
+      US_0101_Player_Animation_Player_Lightclip_12: -92423999615891889
+      US_0101_Player_Animation_Player_Lightclip_19: -7071708902574838209
+      US_0101_Player_Animation_Player_Lightclip_3: 2455607023122701135
+      US_0101_Player_Animation_Player_Lightclip_17: 7790877930167724973
+      US_0101_Player_Animation_Player_Lightclip_25: 2684307246278206397
+      US_0101_Player_Animation_Player_Lightclip_30: 5913355625615954528
+      US_0101_Player_Animation_Player_Lightclip_15: -41339504908688024
+      US_0101_Player_Animation_Player_Lightclip_16: -8440653804982410741
+      US_0101_Player_Animation_Player_Lightclip_24: -1127261358357458417
+      US_0101_Player_Animation_Player_Lightclip_23: 189917647067176618
+      US_0101_Player_Animation_Player_Lightclip_18: -2781444264920511199
+      US_0101_Player_Animation_Player_Lightclip_9: -9052319156280145293
+      US_0101_Player_Animation_Player_Lightclip_13: -7367258626171302495
+      US_0101_Player_Animation_Player_Lightclip_8: -5017203684945408251
+      US_0101_Player_Animation_Player_Lightclip_5: 2663498810711710832
+      US_0101_Player_Animation_Player_Lightclip_10: 7927930305248890902
+      US_0101_Player_Animation_Player_Lightclip_26: 118408717828062189
+      US_0101_Player_Animation_Player_Lightclip_14: 1707122354580678971
+      US_0101_Player_Animation_Player_Lightclip_2: -8812665208288104823
+      US_0101_Player_Animation_Player_Lightclip_0: -5340242612823583522
+      US_0101_Player_Animation_Player_Lightclip_22: 2681830249267709722
+      US_0101_Player_Animation_Player_Lightclip_1: -4604011097803601803
+      US_0101_Player_Animation_Player_Lightclip_31: -2902608865575203636
+      US_0101_Player_Animation_Player_Lightclip_29: 8083608348409817881
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

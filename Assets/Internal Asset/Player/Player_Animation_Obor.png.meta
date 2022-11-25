@@ -1,0 +1,1069 @@
+fileFormatVersion: 2
+guid: ee464d7fd9dff7d44b536b511059df4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8815705808565662457
+    second: US_0101_Player_Animation_Player - withObor_0
+  - first:
+      213: -5897606589618857702
+    second: US_0101_Player_Animation_Player - withObor_1
+  - first:
+      213: -5845812587198402320
+    second: US_0101_Player_Animation_Player - withObor_2
+  - first:
+      213: -3642897376461342735
+    second: US_0101_Player_Animation_Player - withObor_3
+  - first:
+      213: 7770769819779774285
+    second: US_0101_Player_Animation_Player - withObor_4
+  - first:
+      213: 2817047803924571033
+    second: US_0101_Player_Animation_Player - withObor_5
+  - first:
+      213: 1747427863495021559
+    second: US_0101_Player_Animation_Player - withObor_6
+  - first:
+      213: -7971722372164084042
+    second: US_0101_Player_Animation_Player - withObor_7
+  - first:
+      213: -8106643711462714691
+    second: US_0101_Player_Animation_Player - withObor_8
+  - first:
+      213: 3860754062707350558
+    second: US_0101_Player_Animation_Player - withObor_9
+  - first:
+      213: 2436635566486798535
+    second: US_0101_Player_Animation_Player - withObor_10
+  - first:
+      213: -7712466305493870600
+    second: US_0101_Player_Animation_Player - withObor_11
+  - first:
+      213: -4483558912717484103
+    second: US_0101_Player_Animation_Player - withObor_12
+  - first:
+      213: -3123650830214623156
+    second: US_0101_Player_Animation_Player - withObor_13
+  - first:
+      213: 8767611988718206251
+    second: US_0101_Player_Animation_Player - withObor_14
+  - first:
+      213: -5295333408919561730
+    second: US_0101_Player_Animation_Player - withObor_15
+  - first:
+      213: 5550769983316520623
+    second: US_0101_Player_Animation_Player - withObor_16
+  - first:
+      213: 7196415826165960074
+    second: US_0101_Player_Animation_Player - withObor_17
+  - first:
+      213: -4651660272151297514
+    second: US_0101_Player_Animation_Player - withObor_18
+  - first:
+      213: -2094846991051206528
+    second: US_0101_Player_Animation_Player - withObor_19
+  - first:
+      213: -945105977393426003
+    second: US_0101_Player_Animation_Player - withObor_20
+  - first:
+      213: 76943202471446226
+    second: US_0101_Player_Animation_Player - withObor_21
+  - first:
+      213: 7317744714206685426
+    second: US_0101_Player_Animation_Player - withObor_22
+  - first:
+      213: -6050109090324593833
+    second: US_0101_Player_Animation_Player - withObor_23
+  - first:
+      213: 3818598508051312883
+    second: US_0101_Player_Animation_Player - withObor_24
+  - first:
+      213: 7339650029572125205
+    second: US_0101_Player_Animation_Player - withObor_25
+  - first:
+      213: -5778622089677131136
+    second: US_0101_Player_Animation_Player - withObor_26
+  - first:
+      213: 4975478374065808399
+    second: US_0101_Player_Animation_Player - withObor_27
+  - first:
+      213: 4284441478575188679
+    second: US_0101_Player_Animation_Player - withObor_28
+  - first:
+      213: 3376605557001664658
+    second: US_0101_Player_Animation_Player - withObor_29
+  - first:
+      213: 2907106681009817961
+    second: US_0101_Player_Animation_Player - withObor_30
+  - first:
+      213: 1506872434422751181
+    second: US_0101_Player_Animation_Player - withObor_31
+  - first:
+      213: 1394625243461698684
+    second: Player_Animation_Obor_0
+  - first:
+      213: -5752388159418607200
+    second: Player_Animation_Obor_1
+  - first:
+      213: -6253836866218899343
+    second: Player_Animation_Obor_2
+  - first:
+      213: 4066959549549451870
+    second: Player_Animation_Obor_3
+  - first:
+      213: 8841052385616795790
+    second: Player_Animation_Obor_4
+  - first:
+      213: -7240786379351370224
+    second: Player_Animation_Obor_5
+  - first:
+      213: -3726216206935746625
+    second: Player_Animation_Obor_6
+  - first:
+      213: 4259493745314123943
+    second: Player_Animation_Obor_7
+  - first:
+      213: 3600203883629995772
+    second: Player_Animation_Obor_8
+  - first:
+      213: -821793560561995646
+    second: Player_Animation_Obor_9
+  - first:
+      213: 6077392300416368580
+    second: Player_Animation_Obor_10
+  - first:
+      213: -7450807344615049097
+    second: Player_Animation_Obor_11
+  - first:
+      213: 3121987015881363138
+    second: Player_Animation_Obor_12
+  - first:
+      213: -6985255264275334347
+    second: Player_Animation_Obor_13
+  - first:
+      213: 1658697970638179547
+    second: Player_Animation_Obor_14
+  - first:
+      213: 6225114033256220085
+    second: Player_Animation_Obor_15
+  - first:
+      213: -8477286139328236547
+    second: Player_Animation_Obor_16
+  - first:
+      213: -6525063420195281460
+    second: Player_Animation_Obor_17
+  - first:
+      213: -7759969978454233982
+    second: Player_Animation_Obor_18
+  - first:
+      213: 6280540378774806027
+    second: Player_Animation_Obor_19
+  - first:
+      213: -6865225871196715991
+    second: Player_Animation_Obor_20
+  - first:
+      213: -4339407141410382806
+    second: Player_Animation_Obor_21
+  - first:
+      213: -3787036971436263395
+    second: Player_Animation_Obor_22
+  - first:
+      213: 7929923724620379557
+    second: Player_Animation_Obor_23
+  - first:
+      213: 3813162872578783773
+    second: Player_Animation_Obor_24
+  - first:
+      213: 5103243898802996813
+    second: Player_Animation_Obor_25
+  - first:
+      213: 1668366901878816977
+    second: Player_Animation_Obor_26
+  - first:
+      213: -3987118300123049839
+    second: Player_Animation_Obor_27
+  - first:
+      213: 5689825274283386879
+    second: Player_Animation_Obor_28
+  - first:
+      213: 1463628145042930464
+    second: Player_Animation_Obor_29
+  - first:
+      213: 1182162803982928851
+    second: Player_Animation_Obor_30
+  - first:
+      213: 5236397135665200781
+    second: Player_Animation_Obor_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Animation_Obor_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 529
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c3571544ba5310800000000000000
+      internalID: 1394625243461698684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 529
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d0bb42796b20b0800000000000000
+      internalID: -5752388159418607200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 529
+        width: 51
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c7c12188e539a0800000000000000
+      internalID: -6253836866218899343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 529
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a17c2a92eb07830800000000000000
+      internalID: 4066959549549451870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 454
+        width: 49
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e881f458d4ab1ba70800000000000000
+      internalID: 8841052385616795790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 454
+        width: 51
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016564cb62f838b90800000000000000
+      internalID: -7240786379351370224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 454
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb79a452a12d94cc0800000000000000
+      internalID: -3726216206935746625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 454
+        width: 58
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0527c5ef2cc1b30800000000000000
+      internalID: 4259493745314123943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 379
+        width: 55
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf66fb28b5e76f130800000000000000
+      internalID: 3600203883629995772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 379
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280bff75c176894f0800000000000000
+      internalID: -821793560561995646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 379
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff20b091c375450800000000000000
+      internalID: 6077392300416368580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 379
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7783956323a699890800000000000000
+      internalID: -7450807344615049097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 304
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8df266a6835b20800000000000000
+      internalID: 3121987015881363138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 304
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf07bb8536f0f90800000000000000
+      internalID: -6985255264275334347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 304
+        width: 53
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdccc812401e40710800000000000000
+      internalID: 1658697970638179547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 304
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5498e2b3c046650800000000000000
+      internalID: 6225114033256220085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 229
+        width: 49
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df37ffdbb21aa5a80800000000000000
+      internalID: -8477286139328236547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 229
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc56d5ef3615275a0800000000000000
+      internalID: -6525063420195281460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 229
+        width: 49
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c2a8e2b6c0f4490800000000000000
+      internalID: -7759969978454233982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 229
+        width: 48
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e9e52e236f82750800000000000000
+      internalID: 6280540378774806027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 154
+        width: 57
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248f749171d9b0a0800000000000000
+      internalID: -6865225871196715991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 154
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd070323457c3c0800000000000000
+      internalID: -4339407141410382806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 154
+        width: 62
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18354660fdb17bc0800000000000000
+      internalID: -3787036971436263395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 154
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5b0fdec9fbc0e60800000000000000
+      internalID: 7929923724620379557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a34cafd631be430800000000000000
+      internalID: 3813162872578783773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46055ea94d52d640800000000000000
+      internalID: 5103243898802996813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 47
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0818d9bda372710800000000000000
+      internalID: 1668366901878816977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 79
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190d4bbd709eaa8c0800000000000000
+      internalID: -3987118300123049839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff763b3e0f156fe40800000000000000
+      internalID: 5689825274283386879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b3c841b0adf4410800000000000000
+      internalID: 1463628145042930464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 63
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db051e8ec2e76010800000000000000
+      internalID: 1182162803982928851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Obor_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e7236837b6ba840800000000000000
+      internalID: 5236397135665200781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 87eafbeb46a8863498fad592f61acb6b, type: 3}
+      name: _Emission
+    nameFileIdTable:
+      Player_Animation_Obor_11: -7450807344615049097
+      Player_Animation_Obor_8: 3600203883629995772
+      Player_Animation_Obor_1: -5752388159418607200
+      Player_Animation_Obor_14: 1658697970638179547
+      Player_Animation_Obor_12: 3121987015881363138
+      Player_Animation_Obor_19: 6280540378774806027
+      Player_Animation_Obor_27: -3987118300123049839
+      Player_Animation_Obor_20: -6865225871196715991
+      Player_Animation_Obor_6: -3726216206935746625
+      Player_Animation_Obor_16: -8477286139328236547
+      Player_Animation_Obor_18: -7759969978454233982
+      Player_Animation_Obor_25: 5103243898802996813
+      Player_Animation_Obor_2: -6253836866218899343
+      Player_Animation_Obor_7: 4259493745314123943
+      Player_Animation_Obor_22: -3787036971436263395
+      Player_Animation_Obor_9: -821793560561995646
+      Player_Animation_Obor_31: 5236397135665200781
+      Player_Animation_Obor_3: 4066959549549451870
+      Player_Animation_Obor_15: 6225114033256220085
+      Player_Animation_Obor_30: 1182162803982928851
+      Player_Animation_Obor_13: -6985255264275334347
+      Player_Animation_Obor_10: 6077392300416368580
+      Player_Animation_Obor_28: 5689825274283386879
+      Player_Animation_Obor_5: -7240786379351370224
+      Player_Animation_Obor_0: 1394625243461698684
+      Player_Animation_Obor_24: 3813162872578783773
+      Player_Animation_Obor_4: 8841052385616795790
+      Player_Animation_Obor_26: 1668366901878816977
+      Player_Animation_Obor_17: -6525063420195281460
+      Player_Animation_Obor_23: 7929923724620379557
+      Player_Animation_Obor_29: 1463628145042930464
+      Player_Animation_Obor_21: -4339407141410382806
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
